@@ -1,8 +1,0 @@
-void main(void)
-{
-init all;
-int i=0;
-for(i=0;i<100;i++)
-{
-}
-}
